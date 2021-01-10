@@ -69,6 +69,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [menu]
 
   [[menu.main]]
-    name = "Resume"
+    name = "Download Resume"
     url = "/docs/resume.pdf"
     weight = 10
